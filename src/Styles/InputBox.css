@@ -1,0 +1,41 @@
+.InputBox{
+    margin-top: 75px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+   
+
+}
+
+.InputBox-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border-style: double;
+    border-radius: 30px;
+
+    background-color: #f8784a5a;
+}
+
+#English-text{
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#Amharic-text{
+    margin-top: 0px;
+}
+
+#input-space{
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+    height: 22px;
+    width: 150px;
+}
+
